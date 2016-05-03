@@ -1,0 +1,6 @@
+{
+  "name": "DocTube Assets",
+  "tagline": "Contains Assets used by DocTube Apps Script",
+  "body": "### Welcome to DocTube Assets\r\nThis site contains assets to be linked to from the DocTube Apps Script.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
